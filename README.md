@@ -1,7 +1,7 @@
 # JS-Code-Snippets
 
 
-<h2>Remove duplication in an array of objects</h2>
+<h2>Remove duplication from an array of objects</h2>
 
 ```javascript
 
