@@ -1,6 +1,6 @@
 # JS-Code-Snippets
 
-<h1> This repo includes JS Code Snippets written by me<h1>
+<h1> This repo contains JS Code Snippets written by me<h1>
 
 <h2>Remove duplication from an array of objects</h2>
 
